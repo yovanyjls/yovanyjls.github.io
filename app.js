@@ -1446,7 +1446,7 @@ const TECH_SECUNDARIA = [
     "key": "primefaces",
     "label": "PrimeFaces",
     "visible": true,
-    "badge": true
+    "badge": false
   },
   {
     "key": "sonarqube",
