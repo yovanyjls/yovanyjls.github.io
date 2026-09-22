@@ -193,6 +193,11 @@ section.bloque h3 {
 }
 .cursos-lista a:hover { color: var(--seal); border-color: var(--seal); }
 .cursos-lista .curso-institucion { font-size: 0.8rem; color: var(--ink-muted); white-space: nowrap; }
+
+@media (max-width: 640px) {
+  .cursos-lista li { flex-direction: column; gap: 0.2rem; }
+  .cursos-lista .curso-institucion { white-space: normal; }
+}
 .cta-link {
   display: inline-flex; align-items: center; gap: 0.4rem; font-size: 0.85rem; font-weight: 700;
   text-decoration: none; color: var(--seal-ink); background: var(--seal);
@@ -203,10 +208,6 @@ section.bloque h3 {
 .cta-link:hover { background: var(--seal-hover); }
 .cta-link:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
 
-footer.pie {
-  text-align: center; font-size: 0.76rem; color: var(--ink-faint);
-  padding: 2rem 0 0.5rem;
-}
 
 @media (max-width: 640px) {
   nav.seccion-nav { overflow-x: auto; }

@@ -1039,7 +1039,6 @@ const I18N = {
     ctaCursos: "Ver catálogo completo ↗",
     ctaDescargarCV: "Descargar CV (PDF) ↓",
     themeDark: "Cambiar a modo claro", themeLight: "Cambiar a modo oscuro",
-    pie: "Sitio generado a partir de datos reales de mi trayectoria — sin contenido inventado.",
     presente: "Actualidad",
     cvArchivo: "cv-es.pdf",
     verMasTecnologias: "Ver más tecnologías",
@@ -1054,7 +1053,6 @@ const I18N = {
     ctaCursos: "View full catalog ↗",
     ctaDescargarCV: "Download CV (PDF) ↓",
     themeDark: "Switch to light mode", themeLight: "Switch to dark mode",
-    pie: "Site generated from real data about my career — no invented content.",
     presente: "Present",
     cvArchivo: "cv-en.pdf",
     verMasTecnologias: "Show more technologies",
@@ -1678,7 +1676,6 @@ function pintarPerfil() {
   document.getElementById("ctaCursos").href = dp.catalogo_cursos;
   document.getElementById("ctaDescargarCV").textContent = t().ctaDescargarCV;
   document.getElementById("ctaDescargarCV").href = t().cvArchivo;
-  document.getElementById("pie").textContent = t().pie;
 }
 
 function agruparPorEmpresa(empleos) {
