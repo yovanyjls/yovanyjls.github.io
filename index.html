@@ -1,31 +1,67 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <title>Yovany Jesús López Serrano - Full Stack Developer</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Yovany Jesús López Serrano — Full Stack Developer</title>
+<meta name="description" content="Portafolio profesional de Yovany Jesús López Serrano: experiencia, tecnologías y certificaciones." />
+<link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>Yovany Jesús López Serrano</h1>
-  <p>Desarrollador Full Stack con más de 14 años de experiencia en Java, Spring Boot, React, AWS y Android.</p>
+<div class="masthead">
+  <div class="masthead-inner">
+    <div>
+      <h1 id="mHeading">Yovany Jesús López Serrano</h1>
+      <div class="sub" id="mSub">Full Stack Developer</div>
+    </div>
+    <div class="controls-right">
+      <div class="lang-toggle" role="group" aria-label="Idioma / Language">
+        <button type="button" id="langEs">ES</button>
+        <button type="button" id="langEn">EN</button>
+      </div>
+      <button class="theme-toggle" id="themeToggle" type="button" aria-label="Cambiar a modo oscuro">🌙</button>
+    </div>
+  </div>
+  <nav class="seccion-nav">
+    <a href="#perfil" id="navPerfil">Perfil</a>
+    <a href="#experiencia" id="navExperiencia">Experiencia</a>
+    <a href="#tecnologias" id="navTecnologias">Tecnologías</a>
+    <a href="#cursos" id="navCursos">Cursos</a>
+  </nav>
+</div>
 
-  <h2>Stack Tecnológico</h2>
-  <ul>
-    <li>Java 8–17, Spring Boot, Hibernate, PL/SQL</li>
-    <li>React, Redux, Material UI</li>
-    <li>AWS Lambda, S3, API Gateway, RDS</li>
-    <li>JUnit, Mockito, Postman</li>
-  </ul>
+<div class="wrap">
+  <section class="hero" id="perfil">
+    <span class="kicker" id="pKicker">Perfil profesional</span>
+    <h2 id="pNombre">Yovany Jesús López Serrano</h2>
+    <div class="titulo" id="pTitulo">Full Stack Developer</div>
+    <div class="contact-line" id="pContacto"></div>
+    <p class="resumen" id="pResumen"></p>
+    <a class="cta-link" id="ctaDescargarCV" href="cv-es.pdf" download>Descargar CV (PDF) ↓</a>
+  </section>
 
-  <h2>Currículum</h2>
-  <p><a href="https://drive.google.com/file/d/15ex8vjBg_0Gnt67LVCyQr8zULKEoqdw3/view?usp=sharing">Descargar CV en PDF</a></p>
+  <section class="bloque" id="experiencia">
+    <h3 id="hExperiencia">Experiencia laboral</h3>
+    <div id="listaExperiencia"></div>
+  </section>
 
-  <h2>Contacto</h2>
-  <ul>
-    <li>Email: yovany.jls@gmail.com</li>
-    <li>WhatsApp: <a href="https://wa.me/5215526590750">+52 1 552 659 0750</a></li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/yovanylopez/">Linkedin</a></li>
-  </ul>
+  <section class="bloque" id="tecnologias">
+    <h3 id="hTecnologias">Tecnologías</h3>
+    <div class="tech-grid" id="gridTecnologias"></div>
+    <details class="tech-secundaria" id="detalleSecundaria">
+      <summary id="resumenSecundaria">Ver más tecnologías</summary>
+      <div id="contenidoSecundaria"></div>
+    </details>
+  </section>
 
-  <!-- Proyectos pendientes -->
+  <section class="bloque" id="cursos">
+    <h3 id="hCursos">Cursos y certificaciones</h3>
+    <ul class="cursos-lista" id="listaCursosDestacados"></ul>
+    <a class="cta-link" id="ctaCursos" href="#" target="_blank" rel="noopener">Ver catálogo completo ↗</a>
+  </section>
+
+  <footer class="pie" id="pie"></footer>
+</div>
+<script src="app.js"></script>
 </body>
 </html>
