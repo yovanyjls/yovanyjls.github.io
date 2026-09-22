@@ -15,6 +15,7 @@ const DATOS = {
         "puesto": "Prestador de Servicios Profesionales - Desarrollo de Software",
         "ubicacion": "Home Office",
         "periodo": "Septiembre 2025 – Actualidad",
+        "duracion": "1 año",
         "fecha_inicio": "2025-09",
         "fecha_fin": null,
         "actividades": [
@@ -37,6 +38,7 @@ const DATOS = {
         "puesto": "Ingeniero de Sistemas",
         "ubicacion": "Home Office",
         "periodo": "Diciembre 2023 – Actualidad",
+        "duracion": "2 años, 8 meses",
         "fecha_inicio": "2023-12",
         "fecha_fin": null,
         "actividades": [
@@ -66,6 +68,7 @@ const DATOS = {
         "puesto": "Desarrollador de Aplicaciones Android",
         "ubicacion": "",
         "periodo": "Enero 2023 – Actualidad",
+        "duracion": "3 años, 8 meses",
         "fecha_inicio": "2023-01",
         "fecha_fin": null,
         "actividades": [
@@ -97,6 +100,7 @@ const DATOS = {
         "puesto": "Profesional Especialista en Desarrollo de Sistemas",
         "ubicacion": "Home Office",
         "periodo": "Septiembre 2025 – Febrero 2026",
+        "duracion": "6 meses",
         "fecha_inicio": "2025-09",
         "fecha_fin": "2026-02",
         "actividades": [
@@ -131,6 +135,7 @@ const DATOS = {
         "puesto": "Profesional en Desarrollo de Aplicaciones en Nube",
         "ubicacion": "Home Office",
         "periodo": "Enero 2024 – Diciembre 2024",
+        "duracion": "1 año",
         "fecha_inicio": "2024-01",
         "fecha_fin": "2024-12",
         "actividades": [
@@ -162,6 +167,7 @@ const DATOS = {
         "puesto": "Profesional Especialista en Desarrollo de Sistemas",
         "ubicacion": "Home Office",
         "periodo": "Julio 2023 – Diciembre 2023",
+        "duracion": "5 meses",
         "fecha_inicio": "2023-07",
         "fecha_fin": "2023-12",
         "actividades": [
@@ -194,6 +200,7 @@ const DATOS = {
         "puesto": "Profesional en Desarrollo de Aplicaciones Móviles",
         "ubicacion": "Home Office",
         "periodo": "Enero 2023 – Junio 2023",
+        "duracion": "5 meses",
         "fecha_inicio": "2023-01",
         "fecha_fin": "2023-06",
         "actividades": [
@@ -219,6 +226,7 @@ const DATOS = {
         "puesto": "Subcoordinador de Proyecto de TIC",
         "ubicacion": "Home Office",
         "periodo": "Enero 2021 – Diciembre 2022",
+        "duracion": "2 años",
         "fecha_inicio": "2021-01",
         "fecha_fin": "2022-12",
         "actividades": [
@@ -256,6 +264,7 @@ const DATOS = {
         "puesto": "Profesional en Desarrollo de Software",
         "ubicacion": "Home Office",
         "periodo": "Enero 2019 – Diciembre 2020",
+        "duracion": "1 año, 11 meses",
         "fecha_inicio": "2019-01",
         "fecha_fin": "2020-12",
         "actividades": [
@@ -298,6 +307,7 @@ const DATOS = {
         "puesto": "Consultor de Soporte y Desarrollo (Tecnologías de la Información)",
         "ubicacion": "",
         "periodo": "Febrero 2017 – Febrero 2018",
+        "duracion": "1 año, 1 mes",
         "fecha_inicio": "2017-02",
         "fecha_fin": "2018-02",
         "actividades": [
@@ -321,6 +331,7 @@ const DATOS = {
         "puesto": "Consultor de Base de Datos y Desarrollador de Software",
         "ubicacion": "",
         "periodo": "Septiembre 2016 – Enero 2017",
+        "duracion": "4 meses",
         "fecha_inicio": "2016-09",
         "fecha_fin": "2017-01",
         "actividades": [
@@ -343,6 +354,7 @@ const DATOS = {
         "puesto": "Jefe de Departamento de Seguridad de la Información",
         "ubicacion": "",
         "periodo": "Marzo 2015 – Enero 2016",
+        "duracion": "10 meses",
         "fecha_inicio": "2015-03",
         "fecha_fin": "2016-01",
         "actividades": [
@@ -372,6 +384,7 @@ const DATOS = {
         "puesto": "Soporte Administrativo B",
         "ubicacion": "",
         "periodo": "Enero 2013 – Marzo 2015",
+        "duracion": "2 años, 2 meses",
         "fecha_inicio": "2013-01",
         "fecha_fin": "2015-03",
         "actividades": [
@@ -393,6 +406,7 @@ const DATOS = {
         "puesto": "Desarrollador de soluciones web",
         "ubicacion": "",
         "periodo": "Febrero 2012 – Enero 2013",
+        "duracion": "10 meses",
         "fecha_inicio": "2012-02",
         "fecha_fin": "2013-01",
         "actividades": [
@@ -414,6 +428,7 @@ const DATOS = {
         "puesto": "Desarrollador web",
         "ubicacion": "",
         "periodo": "Febrero 2011 – Febrero 2012",
+        "duracion": "1 año",
         "fecha_inicio": "2011-02",
         "fecha_fin": "2012-02",
         "actividades": [
@@ -478,6 +493,7 @@ const DATOS = {
         "puesto": "Professional Services Provider - Software Development",
         "ubicacion": "Remote",
         "periodo": "September 2025 – Present",
+        "duracion": "1 year",
         "fecha_inicio": "2025-09",
         "fecha_fin": null,
         "actividades": [
@@ -500,6 +516,7 @@ const DATOS = {
         "puesto": "Systems Engineer",
         "ubicacion": "Remote",
         "periodo": "December 2023 – Present",
+        "duracion": "2 years, 8 months",
         "fecha_inicio": "2023-12",
         "fecha_fin": null,
         "actividades": [
@@ -529,6 +546,7 @@ const DATOS = {
         "puesto": "Android Application Developer",
         "ubicacion": "",
         "periodo": "January 2023 – Present",
+        "duracion": "3 years, 8 months",
         "fecha_inicio": "2023-01",
         "fecha_fin": null,
         "actividades": [
@@ -560,6 +578,7 @@ const DATOS = {
         "puesto": "Specialist Professional in Systems Development",
         "ubicacion": "Remote",
         "periodo": "September 2025 – February 2026",
+        "duracion": "6 months",
         "fecha_inicio": "2025-09",
         "fecha_fin": "2026-02",
         "actividades": [
@@ -594,6 +613,7 @@ const DATOS = {
         "puesto": "Cloud Application Development Professional",
         "ubicacion": "Remote",
         "periodo": "January 2024 – December 2024",
+        "duracion": "1 year",
         "fecha_inicio": "2024-01",
         "fecha_fin": "2024-12",
         "actividades": [
@@ -625,6 +645,7 @@ const DATOS = {
         "puesto": "Specialist Professional in Systems Development",
         "ubicacion": "Remote",
         "periodo": "July 2023 – December 2023",
+        "duracion": "5 months",
         "fecha_inicio": "2023-07",
         "fecha_fin": "2023-12",
         "actividades": [
@@ -657,6 +678,7 @@ const DATOS = {
         "puesto": "Mobile Application Development Professional",
         "ubicacion": "Remote",
         "periodo": "January 2023 – June 2023",
+        "duracion": "5 months",
         "fecha_inicio": "2023-01",
         "fecha_fin": "2023-06",
         "actividades": [
@@ -682,6 +704,7 @@ const DATOS = {
         "puesto": "IT Project Subcoordinator",
         "ubicacion": "Remote",
         "periodo": "January 2021 – December 2022",
+        "duracion": "2 years",
         "fecha_inicio": "2021-01",
         "fecha_fin": "2022-12",
         "actividades": [
@@ -719,6 +742,7 @@ const DATOS = {
         "puesto": "Software Development Professional",
         "ubicacion": "Remote",
         "periodo": "January 2019 – December 2020",
+        "duracion": "1 year, 11 months",
         "fecha_inicio": "2019-01",
         "fecha_fin": "2020-12",
         "actividades": [
@@ -761,6 +785,7 @@ const DATOS = {
         "puesto": "Support and Development Consultant (Information Technology)",
         "ubicacion": "",
         "periodo": "February 2017 – February 2018",
+        "duracion": "1 year, 1 month",
         "fecha_inicio": "2017-02",
         "fecha_fin": "2018-02",
         "actividades": [
@@ -784,6 +809,7 @@ const DATOS = {
         "puesto": "Database Consultant and Software Developer",
         "ubicacion": "",
         "periodo": "September 2016 – January 2017",
+        "duracion": "4 months",
         "fecha_inicio": "2016-09",
         "fecha_fin": "2017-01",
         "actividades": [
@@ -806,6 +832,7 @@ const DATOS = {
         "puesto": "Head of the Information Security Department",
         "ubicacion": "",
         "periodo": "March 2015 – January 2016",
+        "duracion": "10 months",
         "fecha_inicio": "2015-03",
         "fecha_fin": "2016-01",
         "actividades": [
@@ -835,6 +862,7 @@ const DATOS = {
         "puesto": "Administrative Support B",
         "ubicacion": "",
         "periodo": "January 2013 – March 2015",
+        "duracion": "2 years, 2 months",
         "fecha_inicio": "2013-01",
         "fecha_fin": "2015-03",
         "actividades": [
@@ -856,6 +884,7 @@ const DATOS = {
         "puesto": "Web Solutions Developer",
         "ubicacion": "",
         "periodo": "February 2012 – January 2013",
+        "duracion": "10 months",
         "fecha_inicio": "2012-02",
         "fecha_fin": "2013-01",
         "actividades": [
@@ -877,6 +906,7 @@ const DATOS = {
         "puesto": "Web Developer",
         "ubicacion": "",
         "periodo": "February 2011 – February 2012",
+        "duracion": "1 year",
         "fecha_inicio": "2011-02",
         "fecha_fin": "2012-02",
         "actividades": [
@@ -1703,7 +1733,7 @@ function pintarExperiencia() {
       <div class="puesto-item">
         <div class="puesto-cabeza">
           <span class="puesto-nombre">${escapeHtml(p.puesto)}</span>
-          <span class="puesto-periodo">${escapeHtml(p.periodo)}</span>
+          <span class="puesto-periodo">${escapeHtml(p.periodo)} (${escapeHtml(p.duracion)})</span>
         </div>
         ${p.ubicacion ? `<div class="puesto-lugar">${escapeHtml(p.ubicacion)}</div>` : ""}
         <ul class="puesto-actividades">
