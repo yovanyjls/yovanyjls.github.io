@@ -40,6 +40,14 @@ previsualizar como Artifact); para publicar aquí, se extraen el
 `<style>`/`<script>` a `style.css`/`app.js` y se copian junto con los PDF
 del CV Harvard más recientes (`cv_generator/salida/CV_..._harvard_.../`).
 
+## Cache del navegador al actualizar style.css o app.js
+
+`index.html` referencia esos archivos como `style.css?v=2` / `app.js?v=2`.
+Cada vez que edites cualquiera de los dos, **sube en 1 ese número** en
+`index.html` (ej. `?v=3`) — si no, algunos navegadores (sobre todo
+móviles) pueden seguir usando la versión vieja en caché aunque el HTML sí
+se actualice.
+
 ## Actualizar los PDF del CV
 
 Cuando generes una versión nueva del CV en formato Harvard (ES y EN) con
