@@ -76,8 +76,8 @@ const DATOS = {
           "Implementé arquitectura MVVM con Jetpack Compose, Firebase y APIs REST.",
           "Construí un motor propio de videojuegos 2D (Kotlin, SurfaceView y Jetpack Compose) y una plantilla base reutilizable.",
           "Moneticé apps y videojuegos con Google AdMob (banner, intersticial y con recompensa) y consentimiento UMP.",
-          "Internacionalicé las apps y videojuegos en 74 idiomas (87 en Play Store), incluidos idiomas RTL, e implementé modo oscuro.",
-          "Automaticé con Python la publicación en Play Console, las capturas en 87 idiomas y la subida de tráileres a YouTube.",
+          "Internacionalicé las apps y videojuegos en 74 idiomas, incluidos idiomas RTL, e implementé modo oscuro.",
+          "Automaticé con Python la publicación en Play Console, las capturas en todos los idiomas y la subida de tráileres a YouTube.",
           "Integré desarrollo asistido por IA (Claude Code y ChatGPT/Codex) en código, arte y revisión de diseño.",
           "Inicié el desarrollo de videojuegos 3D con Unity 6 (C# y URP).",
           "Desarrollé Privacy Policy Generator, con generación dinámica conforme a CCPA/CPRA, GDPR, CalOPPA y COPPA."
@@ -561,8 +561,8 @@ const DATOS = {
           "Implemented MVVM architecture with Jetpack Compose, Firebase, and REST APIs.",
           "Built a custom 2D game engine (Kotlin, SurfaceView, and Jetpack Compose) and a reusable base template.",
           "Monetized apps and games with Google AdMob (banner, interstitial, and rewarded ads) and UMP consent.",
-          "Internationalized the apps and games into 74 languages (87 on Play Store), including RTL languages, and implemented dark mode.",
-          "Automated Play Console publishing, screenshots in 87 languages, and YouTube trailer uploads with Python.",
+          "Internationalized the apps and games into 74 languages, including RTL languages, and implemented dark mode.",
+          "Automated Play Console publishing, screenshots in every language, and YouTube trailer uploads with Python.",
           "Integrated AI-assisted development (Claude Code and ChatGPT/Codex) into code, art, and design review.",
           "Started developing 3D games with Unity 6 (C# and URP).",
           "Developed Privacy Policy Generator, with dynamic generation per CCPA/CPRA, GDPR, CalOPPA, and COPPA."
