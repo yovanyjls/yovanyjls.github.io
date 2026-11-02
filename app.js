@@ -72,11 +72,14 @@ const DATOS = {
         "fecha_inicio": "2023-01",
         "fecha_fin": null,
         "actividades": [
-          "Desarrollé, publiqué y mantuve 15 aplicaciones en Google Play Store.",
+          "Desarrollé, publiqué y mantengo 16 aplicaciones y 13 videojuegos en Google Play Store.",
           "Implementé arquitectura MVVM con Jetpack Compose, Firebase y APIs REST.",
-          "Migré aplicaciones existentes a Jetpack Compose y actualicé a Android SDK 36/37.",
-          "Automaticé la publicación de fichas de Play Console con Python y la API de Google Play Developer.",
-          "Internacionalicé las aplicaciones en 12 idiomas e implementé modo oscuro.",
+          "Construí un motor propio de videojuegos 2D (Kotlin, SurfaceView y Jetpack Compose) y una plantilla base reutilizable.",
+          "Moneticé apps y videojuegos con Google AdMob (banner, intersticial y con recompensa) y consentimiento UMP.",
+          "Internacionalicé las apps en 12 idiomas con modo oscuro y los videojuegos en 74 idiomas (87 en Play Store), incluidos idiomas RTL.",
+          "Automaticé con Python la publicación en Play Console, las capturas en 87 idiomas y la subida de tráileres a YouTube.",
+          "Integré desarrollo asistido por IA (Claude Code y ChatGPT/Codex) en código, arte y revisión de diseño.",
+          "Inicié el desarrollo de videojuegos 3D con Unity 6 (C# y URP).",
           "Desarrollé Privacy Policy Generator, con generación dinámica conforme a CCPA/CPRA, GDPR, CalOPPA y COPPA."
         ],
         "herramientas": [
@@ -91,6 +94,10 @@ const DATOS = {
           "Google Play Developer API",
           "Google AdMob",
           "Python",
+          "Unity",
+          "C#",
+          "YouTube Data API",
+          "FFmpeg",
           "Vysor"
         ]
       },
@@ -550,11 +557,14 @@ const DATOS = {
         "fecha_inicio": "2023-01",
         "fecha_fin": null,
         "actividades": [
-          "Developed, published, and maintained 15 applications on the Google Play Store.",
+          "Developed, published, and maintain 16 applications and 13 video games on the Google Play Store.",
           "Implemented MVVM architecture with Jetpack Compose, Firebase, and REST APIs.",
-          "Migrated existing applications to Jetpack Compose and updated to Android SDK 36/37.",
-          "Automated Play Console listing publication with Python and the Google Play Developer API.",
-          "Internationalized the applications into 12 languages and implemented dark mode.",
+          "Built a custom 2D game engine (Kotlin, SurfaceView, and Jetpack Compose) and a reusable base template.",
+          "Monetized apps and games with Google AdMob (banner, interstitial, and rewarded ads) and UMP consent.",
+          "Internationalized the apps into 12 languages with dark mode and the games into 74 languages (87 on Play Store), including RTL languages.",
+          "Automated Play Console publishing, screenshots in 87 languages, and YouTube trailer uploads with Python.",
+          "Integrated AI-assisted development (Claude Code and ChatGPT/Codex) into code, art, and design review.",
+          "Started developing 3D games with Unity 6 (C# and URP).",
           "Developed Privacy Policy Generator, with dynamic generation per CCPA/CPRA, GDPR, CalOPPA, and COPPA."
         ],
         "herramientas": [
@@ -569,6 +579,10 @@ const DATOS = {
           "Google Play Developer API",
           "Google AdMob",
           "Python",
+          "Unity",
+          "C#",
+          "YouTube Data API",
+          "FFmpeg",
           "Vysor"
         ]
       },
