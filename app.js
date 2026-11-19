@@ -72,7 +72,7 @@ const DATOS = {
         "fecha_inicio": "2023-01",
         "fecha_fin": null,
         "actividades": [
-          "Desarrollé, publiqué y mantengo 16 aplicaciones y 13 videojuegos en Google Play Store.",
+          "Desarrollé, publiqué y mantengo 36 aplicaciones y 19 videojuegos en Google Play Store.",
           "Implementé arquitectura MVVM con Jetpack Compose, Firebase y APIs REST.",
           "Construí un motor propio de videojuegos 2D (Kotlin, SurfaceView y Jetpack Compose) y una plantilla base reutilizable.",
           "Moneticé apps y videojuegos con Google AdMob (banner, intersticial y con recompensa) y consentimiento UMP.",
@@ -557,7 +557,7 @@ const DATOS = {
         "fecha_inicio": "2023-01",
         "fecha_fin": null,
         "actividades": [
-          "Developed, published, and maintain 16 applications and 13 video games on the Google Play Store.",
+          "Developed, published, and maintain 36 applications and 19 video games on the Google Play Store.",
           "Implemented MVVM architecture with Jetpack Compose, Firebase, and REST APIs.",
           "Built a custom 2D game engine (Kotlin, SurfaceView, and Jetpack Compose) and a reusable base template.",
           "Monetized apps and games with Google AdMob (banner, interstitial, and rewarded ads) and UMP consent.",
